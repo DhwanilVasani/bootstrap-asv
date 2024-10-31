@@ -1,4 +1,4 @@
-cd /home/ubuntu/IDL_Group56_Voice_Privacy_Challenge
+cd /home/ubuntu/Voice-Privacy-Challenge-2024
 
 echo ""
 echo "======================="

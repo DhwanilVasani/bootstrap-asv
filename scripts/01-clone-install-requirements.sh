@@ -17,7 +17,7 @@ echo "=================="
 echo ""
 
 
-git clone https://$github_username:$github_pat@github.com/JohnYanxinLiu/IDL_Group56_Voice_Privacy_Challenge.git
+git clone https://$github_username:$github_pat@github.com/JohnYanxinLiu/IDL_Group56_Voice_Privacy_Challenge.git Voice-Privacy-Challenge-2024
 echo $?
 # if [[ $?!=0 ]];then
 #     echo "Issue cloning repo"
@@ -29,7 +29,7 @@ echo "installing dependencies"
 echo "======================="
 echo ""
 
-cd ./IDL_Group56_Voice_Privacy_Challenge/
+cd ./Voice-Privacy-Challenge-2024/
 chmod +x ./00_install.sh 
 ./00_install.sh
 source env.sh
